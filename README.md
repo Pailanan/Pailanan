@@ -3,9 +3,6 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6K0H4fDKszixq/giphy.gif" width="150" alt="Coding animation"/>
-</p>
 
 Hi there! 👋 I'm a curious and passionate **student developer** who loves exploring new technologies and solving real-world problems through code.  
 Currently diving deep into **Artificial Intelligence** 🤖 and **Machine Learning** 📊, always eager to learn more and grow as a developer.  
