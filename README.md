@@ -5,9 +5,9 @@
 
 
 Hi there! 👋 I'm a curious and passionate **student developer** who loves exploring new technologies and solving real-world problems through code.  
-Currently diving deep into **Artificial Intelligence** 🤖 and **Machine Learning** 📊, always eager to learn more and grow as a developer.  
+Currently diving deep into **Artificial Intelligence**  and **Machine Learning** , always eager to learn more and grow as a developer.  
 
-I’m fascinated by how AI can be used to build smarter tools, automate tasks, and make everyday life better. 🚀✨
+I’m fascinated by how AI can be used to build smarter tools, automate tasks, and make everyday life better. 
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="AI brain animation"/>
