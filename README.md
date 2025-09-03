@@ -36,8 +36,8 @@ I'm especially interested in how AI can be used to build smarter tools, automate
 
 ## 📫 Let's Connect!
 <p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/eybabeii?igsh=Yjd1MDc5Y2EMTY2"><img src="https://img.shields.io/badge/@Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:jeanybabe.pailanan@bisu.edu.ph"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/eybabeii?igsh=Yjd1MDc5Y2E2MTY2"><img src="https://img.shields.io/badge/@Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://ph.linkedin.com/in/jeany-babe-pailanan-a3145b373"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
