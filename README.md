@@ -10,20 +10,27 @@ I'm especially interested in how AI can be used to build smarter tools, automate
 
 ## 🧰 Tech Stack
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+
 </p>
+
 
 ---
 
 ## 🔭 Current Projects
-- 🚀 Building a [Project Name] using [Tech Stack]
-- 🛠️ Maintaining [Your Repo or Website]
-- 💡 Exploring [Topic e.g. Docker, AI tools]
+
+- 🎮 Currently developing a **game app** (still brainstorming the perfect name!)
+- 🚗 Building a **car parts recognition app** using Machine Learning
+- 🏛️ Developing an internal app for the **(NIA)** to improve workflows and efficiency
+- 💡 Exploring more about **AI tools**, **machine learning frameworks**, and real-world applications of computer vision
+
 
 ---
 
@@ -44,6 +51,13 @@ I'm especially interested in how AI can be used to build smarter tools, automate
 
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pailanan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pailanan&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 <p align="center">
   <i
