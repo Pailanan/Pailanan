@@ -36,9 +36,8 @@ I’m fascinated by how AI can be used to build smarter tools, automate tasks, a
 
 - 🎮 Working on a **game app** — still exploring ideas and learning as I go  
 - 🚗 Creating a **car parts recognition app** with Machine Learning to solve real-world challenges  
-- 🏛️ Assisting in building an internal app for the **National Irrigation Administration (NIA)** to help streamline workflows  
+- 🏛️ Leading the development of an internal app for the **National Irrigation Administration (NIA) Region 7** to help streamline workflows  
 - 💡 Continuously learning about **AI tools**, **machine learning frameworks**, and practical uses of computer vision
-
 
 ---
 
