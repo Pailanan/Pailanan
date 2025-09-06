@@ -32,12 +32,17 @@ I’m fascinated by how AI can be used to build smarter tools, automate tasks, a
 
 ---
 
-## 🔭 Current Projects
+## 📁 Projects
 
-- 🎮 Working on a **game app** — still exploring ideas and learning as I go  
-- 🚗 Creating a **car parts recognition app** with Machine Learning to solve real-world challenges  
-- 🏛️ Leading the development of an internal app for the **National Irrigation Administration (NIA) Region 7** to help streamline workflows  
-- 💡 Continuously learning about **AI tools**, **machine learning frameworks**, and practical uses of computer vision
+| Project | Status | Preview | Description |
+|--------|--------|---------|-------------|
+| 🎮 Game App | Ongoing | ![Game Preview](https://via.placeholder.com/100) | A fun game app — still exploring ideas and features |
+| 🚗 Car Parts ML App | Ongoing | ![Car ML](https://via.placeholder.com/100) | A machine learning app that recognizes car parts from images |
+| 🏛️ DISA (NIA Region 7) | Active | ![DISA Preview](https://via.placeholder.com/100) | Leading the development of an internal app for government workflows |
+| 🛍️ eBaybayMo | Contributing | ![eBaybayMo](https://via.placeholder.com/100) | Supporting a community-based e-commerce project |
+| 🕹️ eBaybayMo Game App | In Development | ![Game ML](https://via.placeholder.com/100) | An educational game version of eBaybayMo using ML |
+| 🧳 BoardingHub | Maintained | ![BoardingHub](https://via.placeholder.com/100) | Streamlines onboarding for new users/employees |
+
 
 ---
 
