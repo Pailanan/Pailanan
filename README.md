@@ -39,7 +39,7 @@ I’m fascinated by how AI can be used to build smarter tools, automate tasks, a
 | 🎮 Game App | Ongoing | ![Game Preview](https://via.placeholder.com/100) | A fun game app — still exploring ideas and features |
 | 🚗 Car Parts ML App | Ongoing | ![Car ML](https://via.placeholder.com/100) | A machine learning app that recognizes car parts from images |
 | 🏛️ DISA (NIA Region 7) | Active | ![DISA Preview](https://via.placeholder.com/100) | Leading the development of an internal app for government workflows |
-| 🛍️ eBaybayMo | Contributing | <img src="assets/ebaybayMo.jpg" width="95" height="100"/> | Supporting a community-based e-commerce project |
+| 🛍️ eBaybayMo | Contributing | <img src="assets/ebaybayMov3.jpg" width="95" height="100"/> | Supporting a community-based e-commerce project |
 | 🕹️ eBaybayMo Game App | In Development | ![Game ML](https://via.placeholder.com/100) | An educational game version of eBaybayMo using ML |
 | 🧳 BoardingHub | Maintained | <img src="assets/bh.jpg" width="100" height="90"/> | Streamlines onboarding for new users/employees |
 
