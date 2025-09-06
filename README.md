@@ -41,7 +41,8 @@ I’m fascinated by how AI can be used to build smarter tools, automate tasks, a
 | 🏛️ DISA (NIA Region 7) | Active | ![DISA Preview](https://via.placeholder.com/100) | Leading the development of an internal app for government workflows |
 | 🛍️ eBaybayMo | Contributing | ![eBaybayMo](assets/ebaybayMov3.jpg) | Supporting a community-based e-commerce project |
 | 🕹️ eBaybayMo Game App | In Development | ![Game ML](https://via.placeholder.com/100) | An educational game version of eBaybayMo using ML |
-| 🧳 BoardingHub | Maintained | ![BoardingHub](assets/bh.jpg) | Streamlines onboarding for new users/employees |
+| 🧳 BoardingHub | Maintained | <img src="assets/bh.jpg" width="100" height="80"/> | Streamlines onboarding for new users/employees |
+
 
 
 ---
