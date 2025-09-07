@@ -39,8 +39,8 @@ I’m fascinated by how AI can be used to build smarter tools, automate tasks, a
 | 🎮 Game Projects | Ongoing | Lead Developer | <img src="assets/og.jpg" width="95" height="100"/> | Developing a series of games: an **RPG**, a **side-scrolling platformer**, and a **shooting game** — each focused on fun and learning |
 | 🚗 Car Parts ML App | Ongoing |  Lead Developer | <img src="assets/og.jpg" width="95" height="100"/> | A machine learning app that recognizes car parts from images |
 | 🏛️ DISA (NIA Region 7) | Active | Project Leader | <img src="assets/nia.jpg" width="95" height="100"/> | Leading the development of an internal app for government workflows |
-| 🛍️ eBaybayMo | Contributing Phase 3 | Assistant Leader (Web) | <img src="assets/ebaybayMov3.jpg" width="95" height="100"/> | Supporting a community-based e-commerce project |
 | 🕹️ eBaybayMo Game App | In Development | Developer | <img src="assets/ebaybayMogame.jpg" width="100" height="90"/> | An educational game version of eBaybayMo using ML |
+| 🛍️ eBaybayMo | Contributing Phase 3 | Assistant Leader (Web) | <img src="assets/ebaybayMov3.jpg" width="95" height="100"/> | Supporting a community-based e-commerce project |
 | 🧳 BoardingHub | Maintained | Lead Developer | <img src="assets/bh.jpg" width="100" height="90"/> | Streamlines onboarding for new users/employees |
 
 
