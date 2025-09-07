@@ -1,13 +1,9 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Pailanan.Pailanan)
 
-<!-- Gradient Banner with Name -->
+<!-- Banner with name in the background image -->
 <p align="center">
   <img src="assets/bg.jpg" alt="Jeany Babe Pailanan" width="100%" />
 </p>
-
-<!-- Optional: Title under the banner -->
-<h1 align="center">Hi, I'm <span style="color:#0099ff;">Jeany Babe Pailanan</span> 👋</h1>
-
 ---
 
 ## 👨‍💻 About Me
