@@ -2,7 +2,7 @@
 
 <!-- Banner with name in the background image -->
 <p align="center">
-  <img src="assets/abg.png" alt="Jeany Babe Pailanan" width="100%" />
+  <img src="assets/bg.png" alt="Jeany Babe Pailanan" width="100%" />
 </p>
 ---
 
